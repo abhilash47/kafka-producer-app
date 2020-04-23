@@ -1,4 +1,4 @@
-package abhi.gajarla.kafka.producer.app;
+package com.gajarla.kafka.producer.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
